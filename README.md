@@ -1,4 +1,4 @@
-# ViT-Adapter
+# StructToken
 The official implementation of the paper "[ StructToken : Rethinking Semantic Segmentation with Structural Prior ](https://arxiv.org/abs/2203.12612)".
 
 ## News
